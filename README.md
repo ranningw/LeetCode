@@ -14,6 +14,7 @@ To record the Leetcode problems I have done.
   b. balanced binary tree
   c. diameter of binary tree
   d. maximum summation path of binary tree
+  e. the length of longest univalue path - binary tree
 
 3. String
   a. valid pandliorme
