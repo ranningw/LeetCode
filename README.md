@@ -8,6 +8,10 @@ To record the Leetcode problems I have done.
   c. reverse single linked list
   d. delete the repetition element in linked list
   
+  e. pre-order binary tree
+  f. in-order binary tree
+  g. post-order binary tree
+  
 
 2. Tree
   a. height of binary tree
