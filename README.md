@@ -8,9 +8,7 @@ To record the Leetcode problems I have done.
   c. reverse single linked list
   d. delete the repetition element in linked list
   
-  e. pre-order binary tree
-  f. in-order binary tree
-  g. post-order binary tree
+
   
 
 2. Tree
@@ -19,6 +17,10 @@ To record the Leetcode problems I have done.
   c. diameter of binary tree
   d. maximum summation path of binary tree
   e. the length of longest univalue path - binary tree
+  
+  f. pre-order binary tree (TO DO)
+  g. in-order binary tree (TO DO)
+  h. post-order binary tree (TO DO)
 
 3. String
   a. valid pandliorme
