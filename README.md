@@ -24,3 +24,9 @@ To record the Leetcode problems I have done.
 
 3. String
   a. valid pandliorme
+
+
+Algorithms
+  iteration
+  recursive （dynamic programming; divide-and-conquer）
+  tree/graph: BFS DFS
