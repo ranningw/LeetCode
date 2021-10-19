@@ -18,9 +18,9 @@ To record the Leetcode problems I have done.
   d. maximum summation path of binary tree
   e. the length of longest univalue path - binary tree
   
-  f. pre-order binary tree (TO DO)
-  g. in-order binary tree (TO DO)
-  h. post-order binary tree (TO DO)
+  f. pre-order binary tree
+  g. in-order binary tree 
+  h. post-order binary tree
 
 3. String
   a. valid pandliorme
