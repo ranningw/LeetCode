@@ -21,6 +21,11 @@ To record the Leetcode problems I have done.
   f. pre-order binary tree
   g. in-order binary tree 
   h. post-order binary tree
+  i. BFS level order traversal (TO DO)
+  j. DFS algorithm
+
+
+
 
 3. String
   a. valid pandliorme
@@ -30,3 +35,9 @@ Algorithms
   iteration
   recursive （dynamic programming; divide-and-conquer）
   tree/graph: BFS DFS
+
+Data Structures
+
+  queue
+  binary tree
+  linked list
